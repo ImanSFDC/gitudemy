@@ -1,2 +1,2 @@
 # gitudemy
-Get udemy class
+Git udemy class
